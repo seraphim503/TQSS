@@ -36,7 +36,7 @@ To run this, you need three things installed on your computer:
     
 2. **qBittorrent:** With the "Web UI" feature enabled in your settings.
     
-3. **Cloudflared:** The free Cloudflare Tunnel tool. This is required to securely broadcast the image from your PC to the forum. Download it, extract it, and ensure it is added to your Windows PATH.
+3. **Cloudflared:** The free Cloudflare Tunnel tool. This is required to securely broadcast the image from your PC to the forum. Download it, extract it, install it.
     
 
 _(Note: You do not need to manually install Python libraries like Pillow or Flask; the script will auto-install them for you the first time you run it!)_
