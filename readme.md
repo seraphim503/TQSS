@@ -22,7 +22,7 @@ Instead of a static image, this script connects to your local qBittorrent client
 - Theres two styles to choose from:
 	- 1. cyberpunk edition:
 		![Recording 2026-03-01 212229](https://github.com/user-attachments/assets/9dbe6052-5e29-4deb-aa0d-01cf4d780983)
-)
+
 	- 2. Qbit Stat signature:
 	  ![awrrr](https://files.catbox.moe/tist4f.gif)
 
