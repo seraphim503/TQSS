@@ -3,7 +3,7 @@
 
 # QBittorrent  Stat Signature Generator
 
-I've built a Python script that turns your live qBittorrent statistics into a sleek, auto-updating forum signature. 
+I've built a Python script that turns your live qBittorrent statistics and PC statistics into a sleek, auto-updating forum signature. 
 
 ### 1. What This Script Does
 
@@ -18,6 +18,13 @@ Instead of a static image, this script connects to your local qBittorrent client
 - **Connection Status:** Dynamically checks if you are Connectable (Green) or Firewalled (Red).
     
 - **Auto-Refreshing:** Automatically refreshes the image on the forum without breaking the page.
+
+- Theres two styles to choose from:
+	- 1. cyberpunk edition:
+		![Recording 2026-03-01 212229](https://github.com/user-attachments/assets/9dbe6052-5e29-4deb-aa0d-01cf4d780983)
+)
+	- 2. Qbit Stat signature:
+	  ![awrrr](https://files.catbox.moe/tist4f.gif)
 
 ---
 
@@ -67,16 +74,14 @@ The script will use standard Windows fonts by default, but for a different look,
 
 ### 4. How to Use
 
-1. Open `Sera QB signature.py` in Notepad (or any text editor).
+1. Open the downloaded PY file in Notepad (or any text editor).
     
 2. At the very top, locate the **QB_UI CONNECTION SETTINGS**.
     
 3. Change the `QB_URL`, `USER`, and `PASS` to match the Web UI settings you created in Step A.
     
-4. Open your Command Prompt, navigate to your folder, and run the script by typing:
-    
-    `python Seraphim's Qbit stat signature.py`
-    
+4. Open your Command Prompt, navigate to your folder, and run the script by double clicking the PY file or running `python <file name>`
+     
 5. Watch the console. Once it connects, it will print a link that looks like this:
     
     `[img]https://random-words.trycloudflare.com/sig.png[/img]`
@@ -84,7 +89,7 @@ The script will use standard Windows fonts by default, but for a different look,
 6. Copy that exact code and paste it into your  Signature box !
     
 
-**Important:** You must keep the command prompt window open for the signature to stay online and update. If you close the window, the image will go offline.
+**Important:** You must keep the command prompt window open for the signature to stay online and update. If you close the window, the image will go offline. Everytime there will be a unique link created, so you have to update it. Working on a perma link update soon.
 
 ---
 
@@ -122,4 +127,5 @@ Look for the `4.COLORS` section. Colors use standard RGB format `(Red, Green, Bl
 ---
 # 6. Others
 
-Im just a bba guy with 0 coding knowledge, and a gemini student account. let me know if theres issues bugs or design ideas.
+- Im just a bba guy with 0 coding knowledge, and a gemini student account. let me know if theres issues bugs or design ideas. (DM on TBD or email burningdesire503@gmail.com)
+- ar kisuna, nobody asked for this but i made it anyway. Special thanks to [Rezaul.Rabbi](https://www.torrentbd.net/account-details.php?id=273095) bhai for inspiration, Idea and guidance.
